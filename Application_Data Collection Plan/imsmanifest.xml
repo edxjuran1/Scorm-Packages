@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_63dTivGKim7_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Application: Data Collection Plan</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Application:_Data_Collection_Plan_ORG">
+    <organization identifier="Application:_Data_Collection_Plan_ORG">
+      <title>Application: Data Collection Plan</title>
+      <item identifier="Application_Data_Collection_Plan_SCO" isvisible="true" identifierref="__63dTivGKim7_course_id_RES">
+        <title>Application_Data Collection Plan</title>
+        <adlcp:masteryscore>0</adlcp:masteryscore>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__63dTivGKim7_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/6JeKMSC9eRn_80_P_0_0_1817_1365_DX1620_DY1620_CX1131_CY849.png" />
+      <file href="mobile/6LNNx5amVYp_80_P_568_0_910_1367_DX1618_DY1618_CX565_CY849.png" />
+      <file href="mobile/6i0Xc2sGhhI_80_P_569_0_908_1365_DX1620_DY1620_CX565_CY849.png" />
+      <file href="mobile/6Kl3sI5lyJh_80_P_0_428_1587_1190_DX1858_DY1858_CX1132_CY849.png" />
+      <file href="mobile/6qzMrpq5Kdn_80_P_569_0_908_1365_DX1620_DY1620_CX565_CY849.png" />
+      <file href="mobile/6izyqb3DZzc_80_P_569_0_908_1365_DX1620_DY1620_CX565_CY849.png" />
+      <file href="mobile/6RUJlD3HX9W_80_P_0_447_1536_1152_DX1920_DY1920_CX1132_CY849.png" />
+      <file href="mobile/6AO9cBtbHGM_80_P_573_0_900_1352_DX1636_DY1636_CX565_CY849.png" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="mobile/txt__default_5yB9kNq4NbT.png" />
+      <file href="mobile/txt__default_5wcVWmgpixF.png" />
+      <file href="mobile/txt__default_6dT2VdQneWi.png" />
+      <file href="mobile/txt__default_6VeAbFod8DN.png" />
+      <file href="mobile/txt__default_64BDTgoCGsa.png" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5cEQvBd7xZk.js" />
+      <file href="html5/data/js/5mHlV7wmI6w.js" />
+      <file href="html5/data/js/5oXbZnOsKWG.js" />
+      <file href="html5/data/js/5Z0ZRVBFBIt.js" />
+      <file href="html5/data/js/60miJsCGA0q.js" />
+      <file href="html5/data/js/6AWsSXKUDtm.js" />
+      <file href="html5/data/js/6BFU206J9L4.js" />
+      <file href="html5/data/js/6hFPI6E4QVB.js" />
+      <file href="html5/data/js/6ierbFHVxTg.js" />
+      <file href="html5/data/js/6iOZV8CzVWD.js" />
+      <file href="html5/data/js/6j6IBTXro0n.js" />
+      <file href="html5/data/js/6KfPVylNQVo.js" />
+      <file href="html5/data/js/6KO1CD3ZUJx.js" />
+      <file href="html5/data/js/6L7Xwfc9MMb.js" />
+      <file href="html5/data/js/6L9fKwWTrR1.js" />
+      <file href="html5/data/js/6mIwbEpthgl.js" />
+      <file href="html5/data/js/6motIhPpquD.js" />
+      <file href="html5/data/js/6phD46uLaMy.js" />
+      <file href="html5/data/js/6pwAdc309pW.js" />
+      <file href="html5/data/js/6Rujkvdbzr1.js" />
+      <file href="html5/data/js/6URF0QmAnZe.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/ds-bootstrap.min.js" />
+      <file href="html5/lib/scripts/ds-frame.desktop.min.js" />
+      <file href="html5/lib/scripts/ds-frame.mobile.min.js" />
+      <file href="html5/lib/scripts/ds-slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
