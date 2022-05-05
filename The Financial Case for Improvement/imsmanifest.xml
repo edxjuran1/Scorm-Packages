@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_6VTAR0t6GPV_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">The Financial Case for Improvement</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="The_Financial_Case_for_Improvement_ORG">
+    <organization identifier="The_Financial_Case_for_Improvement_ORG">
+      <title>The Financial Case for Improvement</title>
+      <item identifier="The_Financial_Case_for_Improvement_SCO" isvisible="true" identifierref="__6VTAR0t6GPV_course_id_RES">
+        <title>The Financial Case for Improvement</title>
+        <adlcp:masteryscore>0</adlcp:masteryscore>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__6VTAR0t6GPV_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/5pPbhjOTcAi_80_P_0_0_1922_1364_DX1532_DY1532_CX1133_CY804.png" />
+      <file href="story_content/5YisgYTrXiR_44100_64_1.mp3" />
+      <file href="story_content/61mcO12Lwk2_44100_64_1.mp3" />
+      <file href="mobile/63wY9i5KXEz_80_DX708_DY708_CX557_CY390.jpg" />
+      <file href="story_content/6bpkcQuMYwg_44100_64_1.mp3" />
+      <file href="mobile/6LporBuNx6O_80_P_569_0_908_1365_DX1620_DY1620_CX565_CY849.png" />
+      <file href="story_content/6oNCkXwnUGB_44100_64_1.mp3" />
+      <file href="story_content/5cOzfrtXqxb_44100_64_1.mp3" />
+      <file href="story_content/6ldyZNW9uJs_44100_64_1.mp3" />
+      <file href="mobile/5llF05k1MU5_80_DX1244_DY1244_CX622_CY395.png" />
+      <file href="mobile/6Wit19LRQtj_80_P_0_0_1363_2048_DX1080_DY1080_CX565_CY849.png" />
+      <file href="story_content/6l8qm2mw21r_44100_64_1.mp3" />
+      <file href="story_content/6DShfFYarGS_44100_64_1.mp3" />
+      <file href="mobile/6RUJlD3HX9W_80_P_0_447_1536_1152_DX1920_DY1920_CX1132_CY849.png" />
+      <file href="meta.xml" />
+      <file href="story_content/6nvLbU2wNrL.png" />
+      <file href="story_content/user.js" />
+      <file href="story_content/external_files/SA14 The Financial Case for Improvement.pdf" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5cewiM07VMr.js" />
+      <file href="html5/data/js/5dSFE07N2ZD.js" />
+      <file href="html5/data/js/5kAg5DoBK31.js" />
+      <file href="html5/data/js/5X380dT7Cz2.js" />
+      <file href="html5/data/js/5XSI4FNJArz.js" />
+      <file href="html5/data/js/61gBxDfL3gc.js" />
+      <file href="html5/data/js/6CbgBdOY2Bn.js" />
+      <file href="html5/data/js/6cOx9bDR7xp.js" />
+      <file href="html5/data/js/6lzgnwqADYG.js" />
+      <file href="html5/data/js/6PaAcFpJTeP.js" />
+      <file href="html5/data/js/6RQR1S5hoWb.js" />
+      <file href="html5/data/js/6UFl9Z3JczW.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/ds-bootstrap.min.js" />
+      <file href="html5/lib/scripts/ds-frame.desktop.min.js" />
+      <file href="html5/lib/scripts/ds-frame.mobile.min.js" />
+      <file href="html5/lib/scripts/ds-slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
