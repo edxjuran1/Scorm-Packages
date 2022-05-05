@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_5gRCeHJYPKl_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Application: High Level Process Map (SIPOC)</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Application:_High_Level_Process_Map_(SIPOC)_ORG">
+    <organization identifier="Application:_High_Level_Process_Map_(SIPOC)_ORG">
+      <title>Application: High Level Process Map (SIPOC)</title>
+      <item identifier="Application_High_Level_Process_Map_(SIPOC)_SCO" isvisible="true" identifierref="__5gRCeHJYPKl_course_id_RES">
+        <title>Application_High Level Process Map (SIPOC)</title>
+        <adlcp:masteryscore>0</adlcp:masteryscore>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__5gRCeHJYPKl_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/5dMWiAfgu0n_80_P_557_0_1384_1042_DX2130_DY2130_CX1128_CY849.png" />
+      <file href="mobile/5zaeA81zWb4_80_P_569_0_908_1365_DX1620_DY1620_CX565_CY849.png" />
+      <file href="mobile/67owbYKRjJg_80_DX722_DY722_CX567_CY327.jpg" />
+      <file href="mobile/6Kl3sI5lyJh_80_P_0_428_1587_1190_DX1858_DY1858_CX1132_CY849.png" />
+      <file href="mobile/6YUtHHWMAY7_80_DX810_DY810_CX275_CY636.png" />
+      <file href="mobile/5dy65V6sbVh_80_P_444_0_1159_1740_DX1270_DY1270_CX565_CY849.png" />
+      <file href="mobile/5ocVuvv7A3g_80_P_569_0_908_1365_DX1620_DY1620_CX565_CY849.png" />
+      <file href="mobile/6RUJlD3HX9W_80_P_0_447_1536_1152_DX1920_DY1920_CX1132_CY849.png" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="mobile/txt__default_6R2tripzBnk.png" />
+      <file href="mobile/txt__default_5cvKvlqgt61.png" />
+      <file href="mobile/txt__default_6K4DyRk485Z.png" />
+      <file href="mobile/txt__default_6oPYsMy3UzT.png" />
+      <file href="mobile/txt__default_61BWc9F80gp.png" />
+      <file href="mobile/txt__default_6X8QpnII80n.png" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5cicqIUpdB5.js" />
+      <file href="html5/data/js/5e8SYw98eKQ.js" />
+      <file href="html5/data/js/5eIpD92Zb1A.js" />
+      <file href="html5/data/js/5npzrSItJTf.js" />
+      <file href="html5/data/js/5q2QKArQYeJ.js" />
+      <file href="html5/data/js/5tYBge4uhyR.js" />
+      <file href="html5/data/js/5X49qF2QSJD.js" />
+      <file href="html5/data/js/5XpugRcNYdf.js" />
+      <file href="html5/data/js/5xzO80Tqkp1.js" />
+      <file href="html5/data/js/5zUVVpOYON0.js" />
+      <file href="html5/data/js/6ahtHMSSryf.js" />
+      <file href="html5/data/js/6d4JG9SufPi.js" />
+      <file href="html5/data/js/6hDYTWnAJOP.js" />
+      <file href="html5/data/js/6HUF0jbfvAD.js" />
+      <file href="html5/data/js/6J1dFyADNSO.js" />
+      <file href="html5/data/js/6motIhPpquD.js" />
+      <file href="html5/data/js/6PlRGU4pBsh.js" />
+      <file href="html5/data/js/6QN4Mm2ZNrv.js" />
+      <file href="html5/data/js/6raHi01G7Po.js" />
+      <file href="html5/data/js/6rC1PTjPtgS.js" />
+      <file href="html5/data/js/6WVshfwgbEG.js" />
+      <file href="html5/data/js/6Yqdbf0f6cH.js" />
+      <file href="html5/data/js/6ZsTnwtCg3G.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/ds-bootstrap.min.js" />
+      <file href="html5/lib/scripts/ds-frame.desktop.min.js" />
+      <file href="html5/lib/scripts/ds-frame.mobile.min.js" />
+      <file href="html5/lib/scripts/ds-slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
