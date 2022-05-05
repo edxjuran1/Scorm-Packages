@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_5pimFiajOn4_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Continuous Improvement Structure</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Continuous_Improvement_Structure_ORG">
+    <organization identifier="Continuous_Improvement_Structure_ORG">
+      <title>Continuous Improvement Structure</title>
+      <item identifier="Continuous_Improvement_Structure_SCO" isvisible="true" identifierref="__5pimFiajOn4_course_id_RES">
+        <title>Continuous Improvement Structure</title>
+        <adlcp:masteryscore>0</adlcp:masteryscore>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__5pimFiajOn4_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/5WsUNSQQxNx_80_P_0_712_1355_1020_DX2180_DY2180_CX1135_CY854.png" />
+      <file href="story_content/5xTSMno4Icr_44100_64_1.mp3" />
+      <file href="story_content/6cx1uqflxaW_44100_64_1.mp3" />
+      <file href="mobile/5h4V9ZAGlRJ_80_P_0_414_2048_535_DX1440_DY1440_CX1128_CY295.png" />
+      <file href="story_content/6fO6XqwPISS_44100_64_1.mp3" />
+      <file href="mobile/6obCY6TaaQy_80_P_0_825_1520_397_DX1940_DY1940_CX1128_CY295.png" />
+      <file href="story_content/6ZAewWo1hRk_44100_64_1.mp3" />
+      <file href="mobile/67H5EXAW3bg_80_P_570_0_906_1362_DX1624_DY1624_CX565_CY849.png" />
+      <file href="mobile/63BzG0C7Ptc_80_DX608_DY608_CX454_CY461.png" />
+      <file href="story_content/5XxsEMMaxVd_44100_64_1.mp3" />
+      <file href="story_content/6WznzeGaPle_44100_64_1.mp3" />
+      <file href="mobile/6RUJlD3HX9W_80_P_0_447_1536_1152_DX1920_DY1920_CX1132_CY849.png" />
+      <file href="mobile/6qJuN0i1kRc_80_P_593_0_860_1293_DX1710_DY1710_CX565_CY849.png" />
+      <file href="story_content/6chk3693R0x_44100_64_1.mp3" />
+      <file href="mobile/6PO8rayi8h1_80_P_332_0_1331_2000_DX1080_DY1080_CX565_CY849.png" />
+      <file href="story_content/6mgfbELj4K1_44100_64_1.mp3" />
+      <file href="mobile/5t0vNscYmex_80_P_557_0_933_1402_DX1578_DY1578_CX565_CY849.png" />
+      <file href="story_content/5rcgOL5fQqf_44100_64_1.mp3" />
+      <file href="mobile/61HouRDAOsk_80_DX810_DY810_CX202_CY637.png" />
+      <file href="story_content/6eNraJjnijV_44100_64_1.mp3" />
+      <file href="mobile/6NaFcSbOMIc_80_DX810_DY810_CX193_CY634.png" />
+      <file href="story_content/6JkEE29OMKx_44100_64_1.mp3" />
+      <file href="mobile/5bL7VmlApyo_80_DX810_DY810_CX214_CY637.png" />
+      <file href="story_content/6FmWc1Y09rZ_44100_64_1.mp3" />
+      <file href="mobile/6ERpuECVriJ_80_DX810_DY810_CX349_CY636.png" />
+      <file href="mobile/6XX3WgeUQGs_80_DX810_DY810_CX264_CY635.png" />
+      <file href="story_content/6FThuCflTI4_44100_64_1.mp3" />
+      <file href="meta.xml" />
+      <file href="story_content/5dKEO6qtGIz.png" />
+      <file href="story_content/user.js" />
+      <file href="story_content/external_files/SA8 Continuous Improvement Structure.pdf" />
+      <file href="mobile/txt__default_6P6yfFrnDKQ.png" />
+      <file href="mobile/txt__default_6NLKJac2fNa.png" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5hm5gPl8vcZ.js" />
+      <file href="html5/data/js/5hqNGz1M45F.js" />
+      <file href="html5/data/js/5kAg5DoBK31.js" />
+      <file href="html5/data/js/5sKBBo7e99a.js" />
+      <file href="html5/data/js/5uCcmBCScbf.js" />
+      <file href="html5/data/js/5X380dT7Cz2.js" />
+      <file href="html5/data/js/61gBxDfL3gc.js" />
+      <file href="html5/data/js/67plGbQZhwD.js" />
+      <file href="html5/data/js/6CbgBdOY2Bn.js" />
+      <file href="html5/data/js/6I3EAeelbj4.js" />
+      <file href="html5/data/js/6iwMhW2WeLJ.js" />
+      <file href="html5/data/js/6LaIOq46AAb.js" />
+      <file href="html5/data/js/6Lq1BlCDWgN.js" />
+      <file href="html5/data/js/6qThRZrrVWc.js" />
+      <file href="html5/data/js/6SmZzF0wTPY.js" />
+      <file href="html5/data/js/6UFl9Z3JczW.js" />
+      <file href="html5/data/js/6XI4y9KeBnt.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/ds-bootstrap.min.js" />
+      <file href="html5/lib/scripts/ds-frame.desktop.min.js" />
+      <file href="html5/lib/scripts/ds-frame.mobile.min.js" />
+      <file href="html5/lib/scripts/ds-slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
