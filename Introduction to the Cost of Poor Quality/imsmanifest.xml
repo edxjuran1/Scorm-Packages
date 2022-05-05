@@ -1,0 +1,134 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_6EW37gbX8WL_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Introduction to the Cost of Poor Quality</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Introduction_to_the_Cost_of_Poor_Quality_ORG">
+    <organization identifier="Introduction_to_the_Cost_of_Poor_Quality_ORG">
+      <title>Introduction to the Cost of Poor Quality</title>
+      <item identifier="Introduction_to_the_Cost_of_Poor_Quality_SCO" isvisible="true" identifierref="__6EW37gbX8WL_course_id_RES">
+        <title>Introduction to the Cost of Poor Quality</title>
+        <adlcp:masteryscore>0</adlcp:masteryscore>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__6EW37gbX8WL_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/5chMMLHdPKg_80_P_0_0_1816_1365_DX1626_DY1626_CX1134_CY852.png" />
+      <file href="story_content/5uB4Y8pLuKF_44100_64_1.mp3" />
+      <file href="story_content/69Y6zIFM7Me_44100_64_1.mp3" />
+      <file href="story_content/6f8HSZksolO_44100_64_1.mp3" />
+      <file href="mobile/63wY9i5KXEz_80_DX560_DY560_CX440_CY308.jpg" />
+      <file href="story_content/61EH9ZZk4Rv_44100_64_1.mp3" />
+      <file href="mobile/6DPQX1fyBfZ_80_P_358_0_1331_999_DX2214_DY2214_CX1132_CY849.png" />
+      <file href="story_content/5bOb6C9Z8oc_44100_64_1.mp3" />
+      <file href="mobile/6GBf3nA1Jfc_80_P_512_0_1022_1536_DX1440_DY1440_CX565_CY849.png" />
+      <file href="mobile/5rK6QkkQokj_80_DX450_DY450_CX354_CY42.png" />
+      <file href="story_content/5vEIjErmElU_44100_64_1.mp3" />
+      <file href="mobile/60A1ArBCXMo_80_P_0_67_421_235_DX760_DY760_CX421_CY235.png" />
+      <file href="story_content/6d5uyoAdMtw_44100_64_1.mp3" />
+      <file href="mobile/661ZyQT1TcJ_80_P_0_64_584_441_DX784_DY784_CX584_CY441.png" />
+      <file href="story_content/5pLHlGkoaIF_44100_64_1.mp3" />
+      <file href="mobile/63sTlVWBAOE_80_DX1152_DY1152_CX906_CY536.jpg" />
+      <file href="story_content/5xBPc052lsU_44100_64_1.mp3" />
+      <file href="mobile/5jDQt8WfJfc_80_P_0_5_1271_1909_DX1086_DY1086_CX565_CY849.png" />
+      <file href="story_content/6rBsiwJ1zwv_44100_64_1.mp3" />
+      <file href="story_content/6CGhpkjEhPV_44100_64_1.mp3" />
+      <file href="mobile/6RUJlD3HX9W_80_P_0_447_1536_1152_DX1920_DY1920_CX1132_CY849.png" />
+      <file href="mobile/5cNNtt6jh0v_80_DX1324_DY1324_CX1042_CY386.jpg" />
+      <file href="meta.xml" />
+      <file href="story_content/651Rk0axMzM.png" />
+      <file href="story_content/user.js" />
+      <file href="story_content/external_files/SA19 Introduction to The Cost of Poor Quality.pdf" />
+      <file href="mobile/txt__default_6KxOKK5RoNN.png" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5fbihmkhNTg.js" />
+      <file href="html5/data/js/5h37I4bKlpr.js" />
+      <file href="html5/data/js/5hm5gPl8vcZ.js" />
+      <file href="html5/data/js/5htP8IEWhhY.js" />
+      <file href="html5/data/js/5kAg5DoBK31.js" />
+      <file href="html5/data/js/5o9tlNMDZfF.js" />
+      <file href="html5/data/js/5tuMdSxwpEa.js" />
+      <file href="html5/data/js/5wpOVL4gz0l.js" />
+      <file href="html5/data/js/5X380dT7Cz2.js" />
+      <file href="html5/data/js/61gBxDfL3gc.js" />
+      <file href="html5/data/js/61XABcBynN0.js" />
+      <file href="html5/data/js/6CbgBdOY2Bn.js" />
+      <file href="html5/data/js/6Es7DYQbzkC.js" />
+      <file href="html5/data/js/6k0XmAGZGnu.js" />
+      <file href="html5/data/js/6nwVBKqzdod.js" />
+      <file href="html5/data/js/6p3lFWWHK6v.js" />
+      <file href="html5/data/js/6S2NsW860EG.js" />
+      <file href="html5/data/js/6UFl9Z3JczW.js" />
+      <file href="html5/data/js/6ZITg0OwzxG.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/ds-bootstrap.min.js" />
+      <file href="html5/lib/scripts/ds-frame.desktop.min.js" />
+      <file href="html5/lib/scripts/ds-frame.mobile.min.js" />
+      <file href="html5/lib/scripts/ds-slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
