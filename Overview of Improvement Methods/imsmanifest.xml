@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_5WExMJPZEEZ_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Overview of Improvement Methods</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Overview_of_Improvement_Methods_ORG">
+    <organization identifier="Overview_of_Improvement_Methods_ORG">
+      <title>Overview of Improvement Methods</title>
+      <item identifier="Overview_of_Improvement_Methods_SCO" isvisible="true" identifierref="__5WExMJPZEEZ_course_id_RES">
+        <title>Overview of Improvement Methods</title>
+        <adlcp:masteryscore>0</adlcp:masteryscore>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__5WExMJPZEEZ_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/5oD2C87Lbi4_80_P_432_0_1615_1211_DX1824_DY1824_CX1133_CY849.png" />
+      <file href="story_content/5wSjji42wRa_44100_64_1.mp3" />
+      <file href="story_content/6Rjn33MuS7g_44100_64_1.mp3" />
+      <file href="mobile/6naSbUKZIyx_80_P_0_767_1626_512_DX1812_DY1812_CX1133_CY357.png" />
+      <file href="story_content/6UWThKmyTAS_44100_64_1.mp3" />
+      <file href="story_content/6Oy2bdq3Jom_44100_64_1.mp3" />
+      <file href="mobile/6jCwje2dkGi_80_DX1122_DY1122_CX561_CY330.png" />
+      <file href="story_content/60M8cXQ6ZH2_44100_64_1.mp3" />
+      <file href="story_content/5hCWyfgxBNz_44100_64_1.mp3" />
+      <file href="story_content/5tZc83yCAiJ_44100_64_1.mp3" />
+      <file href="mobile/5u3pgECCkAx_80_P_597_0_852_1280_DX1728_DY1728_CX565_CY849.png" />
+      <file href="story_content/6DZzbthaKmF_44100_64_1.mp3" />
+      <file href="story_content/6EA7AcdJ6tA_44100_64_1.mp3" />
+      <file href="story_content/5XzuoPJmqjC_44100_64_1.mp3" />
+      <file href="mobile/6Xh29rQOUvB_80_RC3C7CB_DX210_DY210_CX165_CY156.png" />
+      <file href="story_content/6pFJjjqO82W_44100_64_1.mp3" />
+      <file href="story_content/5rmg8UtB8G1_44100_64_1.mp3" />
+      <file href="mobile/6RUJlD3HX9W_80_P_0_447_1536_1152_DX1920_DY1920_CX1132_CY849.png" />
+      <file href="meta.xml" />
+      <file href="story_content/6jgJX1L32qi.png" />
+      <file href="story_content/user.js" />
+      <file href="story_content/external_files/SA10 Overview of Improvement Methods.pdf" />
+      <file href="mobile/txt__default_5zRdGibtfQa.png" />
+      <file href="mobile/txt__default_6V3b61LdIxF.png" />
+      <file href="mobile/txt__default_6MBHhw1G9UD.png" />
+      <file href="mobile/txt__default_6GqSPhuAFd7.png" />
+      <file href="mobile/txt__default_6mIQrmCPHEO.png" />
+      <file href="mobile/txt__default_68e9RdS89bU.png" />
+      <file href="mobile/txt__default_6HgoHMxbuoo.png" />
+      <file href="mobile/txt__default_6QgeDfSf74K.png" />
+      <file href="mobile/txt__default_6TNVusxoHXf.png" />
+      <file href="mobile/txt__default_6jdT1WbISPw.png" />
+      <file href="mobile/txt__default_6eGhFEMxfNC.png" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5a67atfzmRW.js" />
+      <file href="html5/data/js/5hm5gPl8vcZ.js" />
+      <file href="html5/data/js/5hm61LuyoVo.js" />
+      <file href="html5/data/js/5kAg5DoBK31.js" />
+      <file href="html5/data/js/5qFzKf1V3Ln.js" />
+      <file href="html5/data/js/5uRqHuF7NVq.js" />
+      <file href="html5/data/js/5X380dT7Cz2.js" />
+      <file href="html5/data/js/5X8ZgCnCKGP.js" />
+      <file href="html5/data/js/5Y2mCT5klJJ.js" />
+      <file href="html5/data/js/61gBxDfL3gc.js" />
+      <file href="html5/data/js/64v1wpncqxX.js" />
+      <file href="html5/data/js/6CbgBdOY2Bn.js" />
+      <file href="html5/data/js/6iGcf26c0Tz.js" />
+      <file href="html5/data/js/6m0Qa04MR3P.js" />
+      <file href="html5/data/js/6UFl9Z3JczW.js" />
+      <file href="html5/data/js/6X5DMy4ODkI.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/ds-bootstrap.min.js" />
+      <file href="html5/lib/scripts/ds-frame.desktop.min.js" />
+      <file href="html5/lib/scripts/ds-frame.mobile.min.js" />
+      <file href="html5/lib/scripts/ds-slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
