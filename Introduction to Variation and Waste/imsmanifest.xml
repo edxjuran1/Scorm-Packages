@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_5f7Z2Mv0KO3_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Introduction to Variation and Waste</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Introduction_to_Variation_and_Waste_ORG">
+    <organization identifier="Introduction_to_Variation_and_Waste_ORG">
+      <title>Introduction to Variation and Waste</title>
+      <item identifier="Introduction_to_Variation_and_Waste_SCO" isvisible="true" identifierref="__5f7Z2Mv0KO3_course_id_RES">
+        <title>Introduction to Variation and Waste</title>
+        <adlcp:masteryscore>0</adlcp:masteryscore>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__5f7Z2Mv0KO3_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/6kuDvDDpEiC_80_P_291_43_1756_1325_DX1676_DY1676_CX1131_CY853.png" />
+      <file href="story_content/6crryoLLHkn_44100_64_1.mp3" />
+      <file href="story_content/6RTiDzwDpIG_44100_64_1.mp3" />
+      <file href="mobile/6bMJmPZKA03_80_DX764_DY764_CX479_CY251.jpg" />
+      <file href="story_content/6k6qrZdL93I_44100_64_1.mp3" />
+      <file href="mobile/5xtMijy6CFH_80_DX674_DY674_CX337_CY128.png" />
+      <file href="story_content/6IXOFKzSygt_44100_64_1.mp3" />
+      <file href="mobile/6FppZVP1ROJ_80_P_0_359_2048_645_DX1440_DY1440_CX1133_CY357.png" />
+      <file href="story_content/6PUS9C98r6K_44100_64_1.mp3" />
+      <file href="mobile/5UzVCwcpGmS_80_P_569_0_908_1365_DX1620_DY1620_CX565_CY849.png" />
+      <file href="story_content/6WhGB5AVbS7_44100_64_1.mp3" />
+      <file href="mobile/5yeauwXOwa0_80_DX1440_DY1440_CX1132_CY717.jpg" />
+      <file href="mobile/6KjkriKg3qK_80_DX504_DY504_CX262_CY395.jpg" />
+      <file href="story_content/5iyrQ9YfblT_44100_64_1.mp3" />
+      <file href="mobile/5jzPQwAfbVX_80_DX606_DY606_CX370_CY254.png" />
+      <file href="story_content/5fUpWTHD72M_44100_64_1.mp3" />
+      <file href="mobile/6M4LMTQ34Wf_80_DX1440_DY1440_CX946_CY586.jpg" />
+      <file href="mobile/6Pj3bXdHSKn_80_DX1440_DY1440_CX968_CY636.jpg" />
+      <file href="mobile/6jM1QKBQSAo_80_DX678_DY678_CX339_CY191.jpg" />
+      <file href="story_content/5gSmYDMsxEA_44100_64_1.mp3" />
+      <file href="mobile/6f9qAY2u4Fd_80_DX692_DY692_CX543_CY317.png" />
+      <file href="mobile/6JaUpGk05OU_80_DX696_DY696_CX536_CY313.jpg" />
+      <file href="mobile/6YGUjfikTVk_80_DX712_DY712_CX560_CY327.jpg" />
+      <file href="mobile/61vVXmeFbGB_80_DX686_DY686_CX539_CY315.jpg" />
+      <file href="mobile/6nAgI4ASoGu_80_DX774_DY774_CX608_CY355.jpg" />
+      <file href="mobile/6BH2bY694JD_80_DX732_DY732_CX366_CY230.png" />
+      <file href="story_content/6VU9yPNJEVK_44100_64_1.mp3" />
+      <file href="mobile/5YooV6A4V6B_80_P_0_0_1298_820_DX1476_DY1476_CX1075_CY679.png" />
+      <file href="mobile/5nGdocvnjGF_80_DX1252_DY1252_CX985_CY503.jpg" />
+      <file href="story_content/5yi2XyccrJ2_44100_64_1.mp3" />
+      <file href="story_content/5YJjmceROyY_44100_64_1.mp3" />
+      <file href="story_content/5kRgSQ8sJ3w_44100_64_1.mp3" />
+      <file href="mobile/6RUJlD3HX9W_80_P_0_447_1536_1152_DX1920_DY1920_CX1132_CY849.png" />
+      <file href="mobile/6jKvIAiOFrc_80_DX1440_DY1440_CX1133_CY755.jpg" />
+      <file href="mobile/6M29bps6xKf_80_DX1440_DY1440_CX1133_CY756.jpg" />
+      <file href="mobile/6VFo2RoiNXV_80_DX1440_DY1440_CX1133_CY755.jpg" />
+      <file href="mobile/5UwNGf6yfkC_80_DX1440_DY1440_CX1132_CY849.jpg" />
+      <file href="mobile/6A5hmLrzYyd_80_DX1396_DY1396_CX1097_CY849.jpg" />
+      <file href="mobile/6GYfY44PVB1_80_DX1080_DY1080_CX563_CY848.jpg" />
+      <file href="mobile/6bNlNsMzQcN_80_DX1326_DY1326_CX1043_CY848.png" />
+      <file href="mobile/6G2uuRwvGWY_80_DX1440_DY1440_CX1056_CY705.jpg" />
+      <file href="meta.xml" />
+      <file href="story_content/5WrbRFP3oEJ.png" />
+      <file href="story_content/user.js" />
+      <file href="story_content/external_files/SA7 Introduction to Variation and Waste.pdf" />
+      <file href="mobile/txt__default_5g6PVsnJJEy.png" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5dKaGVrao5h.js" />
+      <file href="html5/data/js/5hG2lSpnSsM.js" />
+      <file href="html5/data/js/5hm5gPl8vcZ.js" />
+      <file href="html5/data/js/5kAg5DoBK31.js" />
+      <file href="html5/data/js/5qeAyyQMld2.js" />
+      <file href="html5/data/js/5X380dT7Cz2.js" />
+      <file href="html5/data/js/5xCxddnNLpB.js" />
+      <file href="html5/data/js/5XTcJNUhQa0.js" />
+      <file href="html5/data/js/61gBxDfL3gc.js" />
+      <file href="html5/data/js/644v5uRY1mw.js" />
+      <file href="html5/data/js/6AvB31AeoXN.js" />
+      <file href="html5/data/js/6CbgBdOY2Bn.js" />
+      <file href="html5/data/js/6CXXRUsz684.js" />
+      <file href="html5/data/js/6Fslop69thu.js" />
+      <file href="html5/data/js/6gnvgD9AzVj.js" />
+      <file href="html5/data/js/6J2bOpiy9Af.js" />
+      <file href="html5/data/js/6kQJeGeFcWB.js" />
+      <file href="html5/data/js/6LAgZgkkuKy.js" />
+      <file href="html5/data/js/6P5RLpwuJt9.js" />
+      <file href="html5/data/js/6PQNURdoAMh.js" />
+      <file href="html5/data/js/6Q1nROUScxx.js" />
+      <file href="html5/data/js/6RjgVfVNp65.js" />
+      <file href="html5/data/js/6rW4qti0uPz.js" />
+      <file href="html5/data/js/6SLwGhle1iX.js" />
+      <file href="html5/data/js/6UFl9Z3JczW.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/ds-bootstrap.min.js" />
+      <file href="html5/lib/scripts/ds-frame.desktop.min.js" />
+      <file href="html5/lib/scripts/ds-frame.mobile.min.js" />
+      <file href="html5/lib/scripts/ds-slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
