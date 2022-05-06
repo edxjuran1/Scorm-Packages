@@ -1,0 +1,170 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_5a4bq4y5dmq_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Improvement Tool: Voice of the Customer Matrix</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Improvement_Tool:_Voice_of_the_Customer_Matrix_ORG">
+    <organization identifier="Improvement_Tool:_Voice_of_the_Customer_Matrix_ORG">
+      <title>Improvement Tool: Voice of the Customer Matrix</title>
+      <item identifier="Improvement_Tool_Voice_of_the_Customer_Matrix_SCO" isvisible="true" identifierref="__5a4bq4y5dmq_course_id_RES">
+        <title>Improvement Tool_Voice of the Customer Matrix</title>
+        <adlcp:masteryscore>0</adlcp:masteryscore>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__5a4bq4y5dmq_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/6lgiRwmGwp2_80_P_0_0_1817_1365_DX1620_DY1620_CX1131_CY849.png" />
+      <file href="story_content/6owPZ4cP7tX_44100_64_1.mp3" />
+      <file href="story_content/6L9MVPxIwib_44100_64_1.mp3" />
+      <file href="mobile/6WlAFTBA8y2_80_P_0_500_2048_535_DX1440_DY1440_CX803_CY210.png" />
+      <file href="story_content/5qfk9eGY31m_44100_64_1.mp3" />
+      <file href="story_content/6iyIqE3O2OY_44100_64_1.mp3" />
+      <file href="story_content/5qvLWZHcN4i_44100_64_1.mp3" />
+      <file href="mobile/6FXblnxYqaz_80_DX480_DY480_CX377_CY251.jpg" />
+      <file href="mobile/5d4ZYSlXJCZ_80_DX480_DY480_CX377_CY251.jpg" />
+      <file href="mobile/5y2pwy6gI4I_80_DX480_DY480_CX340_CY251.jpg" />
+      <file href="story_content/691GTRpAtUx_44100_64_1.mp3" />
+      <file href="story_content/5hBsUai6nHG_44100_64_1.mp3" />
+      <file href="mobile/5iA9oOnVKW9_80_P_569_0_908_1365_DX1620_DY1620_CX565_CY849.png" />
+      <file href="story_content/5n6jHtkertp_44100_64_1.mp3" />
+      <file href="story_content/5oY36oDxjbP_44100_64_1.mp3" />
+      <file href="story_content/6eqmNFuvCxm_44100_64_1.mp3" />
+      <file href="story_content/5sDnUEJbN5n_44100_64_1.mp3" />
+      <file href="story_content/5epOhwgDyiF_44100_64_1.mp3" />
+      <file href="story_content/6Hjwfx7gUNx_44100_64_1.mp3" />
+      <file href="mobile/6nF3caMVwMR_80_P_568_0_911_1369_DX1616_DY1616_CX565_CY849.png" />
+      <file href="story_content/5bqCDUZBZ4P_44100_64_1.mp3" />
+      <file href="mobile/60gpXqGvHPm_80_P_516_0_1014_1524_DX1452_DY1452_CX565_CY849.png" />
+      <file href="story_content/6WGSLX8Uj9C_44100_64_1.mp3" />
+      <file href="mobile/6aXYykfaUzv_80_P_569_0_908_1365_DX1620_DY1620_CX565_CY849.png" />
+      <file href="story_content/6HFOaT6vYTl_44100_64_1.mp3" />
+      <file href="story_content/6rATK7KigWN_44100_64_1.mp3" />
+      <file href="mobile/6RUJlD3HX9W_80_P_0_447_1536_1152_DX1920_DY1920_CX1132_CY849.png" />
+      <file href="meta.xml" />
+      <file href="story_content/62BsYZi8iuP.png" />
+      <file href="story_content/user.js" />
+      <file href="story_content/external_files/SA22 Tool_Voice of the Customer Matrix.pdf" />
+      <file href="mobile/txt__default_6gTzLY0rkod.png" />
+      <file href="mobile/txt__default_5iKu0GZHugo.png" />
+      <file href="mobile/txt__default_5vf29IVurZc.png" />
+      <file href="mobile/txt__default_6apSzpCvS2V.png" />
+      <file href="mobile/txt__default_5ZnLynzczdQ.png" />
+      <file href="mobile/txt__default_5dsip3S8EXd.png" />
+      <file href="mobile/txt__default_6rWeU4GsK7r.png" />
+      <file href="mobile/txt__default_6FoUMqIUczm.png" />
+      <file href="mobile/txt__default_6ASrtXAI9Bt.png" />
+      <file href="mobile/txt__default_5xI7GDoACfx.png" />
+      <file href="mobile/txt__default_5Zk9zbqMSUd.png" />
+      <file href="mobile/txt__default_6Y2Hyk31wvZ.png" />
+      <file href="mobile/txt__default_6orz9VCtJrL.png" />
+      <file href="mobile/txt__default_69X2Q44jvFm.png" />
+      <file href="mobile/txt__default_66MaQ7kpBYe.png" />
+      <file href="mobile/txt__default_5rwzPfq0F1t.png" />
+      <file href="mobile/txt__default_5dtXzvY0JQ8.png" />
+      <file href="mobile/txt__default_68i31dbh6qi.png" />
+      <file href="mobile/txt__default_5bBXo0vvDRR.png" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5dueQcI4F0n.js" />
+      <file href="html5/data/js/5edLM1R956Z.js" />
+      <file href="html5/data/js/5eLbRFKNbno.js" />
+      <file href="html5/data/js/5hm5gPl8vcZ.js" />
+      <file href="html5/data/js/5kAg5DoBK31.js" />
+      <file href="html5/data/js/5rp6AX2MhFE.js" />
+      <file href="html5/data/js/5twoVvVA2v1.js" />
+      <file href="html5/data/js/5UyBvXrp0UW.js" />
+      <file href="html5/data/js/5vBdtQS0Om0.js" />
+      <file href="html5/data/js/5X380dT7Cz2.js" />
+      <file href="html5/data/js/61gBxDfL3gc.js" />
+      <file href="html5/data/js/62vQxBdLnhV.js" />
+      <file href="html5/data/js/63kBLBuaEP8.js" />
+      <file href="html5/data/js/64v5Kq67feM.js" />
+      <file href="html5/data/js/65BvTHPQNR5.js" />
+      <file href="html5/data/js/699tbXVFYr4.js" />
+      <file href="html5/data/js/6ACM5UnTWqu.js" />
+      <file href="html5/data/js/6BraGZbFrOr.js" />
+      <file href="html5/data/js/6BUtScRmEO6.js" />
+      <file href="html5/data/js/6c82ehH32zu.js" />
+      <file href="html5/data/js/6CbgBdOY2Bn.js" />
+      <file href="html5/data/js/6jGwLlsdliF.js" />
+      <file href="html5/data/js/6jPp8h2o2PQ.js" />
+      <file href="html5/data/js/6nvRpFsKSAG.js" />
+      <file href="html5/data/js/6OnJIKOM52j.js" />
+      <file href="html5/data/js/6OYHbNxFXKv.js" />
+      <file href="html5/data/js/6SGBU7QVK0Y.js" />
+      <file href="html5/data/js/6SJBKFCJaZ9.js" />
+      <file href="html5/data/js/6SXt7kG7vSd.js" />
+      <file href="html5/data/js/6UFl9Z3JczW.js" />
+      <file href="html5/data/js/6UhR6moTtrN.js" />
+      <file href="html5/data/js/6WCfAa9wOEf.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/ds-bootstrap.min.js" />
+      <file href="html5/lib/scripts/ds-frame.desktop.min.js" />
+      <file href="html5/lib/scripts/ds-frame.mobile.min.js" />
+      <file href="html5/lib/scripts/ds-slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
