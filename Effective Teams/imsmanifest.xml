@@ -1,0 +1,186 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_5tHSmVPNZiI_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Effective Teams</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Effective_Teams_ORG">
+    <organization identifier="Effective_Teams_ORG">
+      <title>Effective Teams</title>
+      <item identifier="Effective_Teams_SCO" isvisible="true" identifierref="__5tHSmVPNZiI_course_id_RES">
+        <title>Effective Teams</title>
+        <adlcp:masteryscore>0</adlcp:masteryscore>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__5tHSmVPNZiI_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/6pzCVKI1Y7X_80_DX1440_DY1440_CX1132_CY849.jpg" />
+      <file href="story_content/5mWws9bvsJu_44100_64_1.mp3" />
+      <file href="story_content/65h4CymY06Q_44100_64_1.mp3" />
+      <file href="mobile/6LwRH5QxqMj_80_P_558_0_930_1397_DX1584_DY1584_CX565_CY849.png" />
+      <file href="story_content/6gR8vJfC8rS_44100_64_1.mp3" />
+      <file href="mobile/5fyGCBLiByW_80_P_512_0_1022_1536_DX1440_DY1440_CX565_CY849.png" />
+      <file href="story_content/video_6FCJD6zytim_22_64_576x432.mp4" />
+      <file href="mobile/poster_5zeZVCW7eEL_video_6FCJD6zytim_22_64_576x432.jpg" />
+      <file href="story_content/65cTvhpdi9z_44100_64_1.mp3" />
+      <file href="mobile/6VfjaIg6LIV_80_P_0_560_1235_926_DX2386_DY2386_CX1132_CY849.png" />
+      <file href="story_content/6I7L3aawJkp_44100_64_1.mp3" />
+      <file href="story_content/6FyXevjMZC0_44100_64_1.mp3" />
+      <file href="mobile/6H6wMff5w8C_80_P_572_0_902_1356_DX1632_DY1632_CX565_CY849.png" />
+      <file href="story_content/6AjWvijjFtU_44100_64_1.mp3" />
+      <file href="mobile/6jlBgyHY1J3_80_P_114_0_1819_1365_DX1620_DY1620_CX1132_CY849.png" />
+      <file href="story_content/68wPpkeQrWx_44100_64_1.mp3" />
+      <file href="mobile/6ionOZlh0qO_80_P_114_0_1819_1365_DX1620_DY1620_CX1132_CY849.png" />
+      <file href="story_content/6B2GRVwZTMD_44100_64_1.mp3" />
+      <file href="story_content/5cZneIHCuXy_44100_64_1.mp3" />
+      <file href="story_content/5pSlQoT662a_44100_64_1.mp3" />
+      <file href="mobile/6V7OlPgGnVt_80_P_112_0_1822_1367_DX1618_DY1618_CX1132_CY849.png" />
+      <file href="story_content/6I4PqbKDH8f_44100_64_1.mp3" />
+      <file href="story_content/5hWDiQRJG5O_44100_64_1.mp3" />
+      <file href="story_content/6rORKQrOWv4_44100_64_1.mp3" />
+      <file href="mobile/5uNSs0iJ5En_80_DX1338_DY1338_CX1051_CY478.jpg" />
+      <file href="story_content/5s5213ix0xf_44100_64_1.mp3" />
+      <file href="story_content/5qoPEMRj4ZR_44100_64_1.mp3" />
+      <file href="story_content/6PvHKV0Nqc5_44100_64_1.mp3" />
+      <file href="story_content/5oXqM74t4iV_44100_64_1.mp3" />
+      <file href="mobile/6RUJlD3HX9W_80_P_0_447_1536_1152_DX1920_DY1920_CX1132_CY849.png" />
+      <file href="mobile/5iZnoOqjHZT_80_DX744_DY744_CX585_CY386.jpg" />
+      <file href="mobile/6ROEs6nnHEw_80_DX736_DY736_CX579_CY386.jpg" />
+      <file href="mobile/5vWDAUYQZQE_80_DX740_DY740_CX582_CY389.jpg" />
+      <file href="mobile/5w8oboOTlbM_80_DX742_DY742_CX583_CY389.jpg" />
+      <file href="mobile/61MsqTPhLB1_80_DX724_DY724_CX568_CY377.jpg" />
+      <file href="mobile/62SXGImfSaH_80_DX564_DY564_CX443_CY349.jpg" />
+      <file href="meta.xml" />
+      <file href="story_content/6P8u6N6nKi9.png" />
+      <file href="story_content/user.js" />
+      <file href="story_content/external_files/SA9 Effective Teams.pdf" />
+      <file href="mobile/txt__default_68t5Ba4MleT.png" />
+      <file href="mobile/txt__default_6jTgcAWy5VL.png" />
+      <file href="mobile/txt__default_6PEI6isycmY.png" />
+      <file href="mobile/txt__default_5bfZQfZca0E.png" />
+      <file href="mobile/txt__default_6CIHr9AE8cc.png" />
+      <file href="mobile/txt__default_5qFzPQIlqTg.png" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5hm5gPl8vcZ.js" />
+      <file href="html5/data/js/5ijkITt2oe0.js" />
+      <file href="html5/data/js/5k0Uy2Mgd8S.js" />
+      <file href="html5/data/js/5mGkJrz5b0o.js" />
+      <file href="html5/data/js/5qcivjfh9IX.js" />
+      <file href="html5/data/js/5rJ4VZpI34P.js" />
+      <file href="html5/data/js/5rXuaCloimD.js" />
+      <file href="html5/data/js/5vg1oW71PgW.js" />
+      <file href="html5/data/js/5w36mkBBY83.js" />
+      <file href="html5/data/js/5w6aZpNfW7M.js" />
+      <file href="html5/data/js/5wBhIE3Tnpe.js" />
+      <file href="html5/data/js/5X380dT7Cz2.js" />
+      <file href="html5/data/js/5Xu0pCZsZTU.js" />
+      <file href="html5/data/js/5XU71od8ngH.js" />
+      <file href="html5/data/js/614MJeZ3d0s.js" />
+      <file href="html5/data/js/61gBxDfL3gc.js" />
+      <file href="html5/data/js/61iuKYSDVoK.js" />
+      <file href="html5/data/js/65VRsGRRxva.js" />
+      <file href="html5/data/js/67oCFkSwbeq.js" />
+      <file href="html5/data/js/6ByfgKIajIf.js" />
+      <file href="html5/data/js/6c0wbJN9gK3.js" />
+      <file href="html5/data/js/6CEYyFoAQrB.js" />
+      <file href="html5/data/js/6DoFkLeW95n.js" />
+      <file href="html5/data/js/6DVIddTJPRD.js" />
+      <file href="html5/data/js/6F88vEahmZJ.js" />
+      <file href="html5/data/js/6FfX4TtGHpq.js" />
+      <file href="html5/data/js/6FNyXErhJaj.js" />
+      <file href="html5/data/js/6FPYSKTurVh.js" />
+      <file href="html5/data/js/6gcp8wnFNRO.js" />
+      <file href="html5/data/js/6GrCvhu6THZ.js" />
+      <file href="html5/data/js/6HyptzyckgM.js" />
+      <file href="html5/data/js/6IEm11vOVDx.js" />
+      <file href="html5/data/js/6jK2b42BeHZ.js" />
+      <file href="html5/data/js/6k3No3oXjs2.js" />
+      <file href="html5/data/js/6KCGjLrPDwe.js" />
+      <file href="html5/data/js/6KRwLeZKhGh.js" />
+      <file href="html5/data/js/6LhMC7AMAU1.js" />
+      <file href="html5/data/js/6lLcYFMYw57.js" />
+      <file href="html5/data/js/6mNPRV1CpKm.js" />
+      <file href="html5/data/js/6mofC6psT0c.js" />
+      <file href="html5/data/js/6oMPI3Ipbhv.js" />
+      <file href="html5/data/js/6OyJZe0svlu.js" />
+      <file href="html5/data/js/6prPqIRPO3y.js" />
+      <file href="html5/data/js/6QKI3Mwleb4.js" />
+      <file href="html5/data/js/6qQo8xGrZYb.js" />
+      <file href="html5/data/js/6RorCfVPdFF.js" />
+      <file href="html5/data/js/6rQmFEBjbWJ.js" />
+      <file href="html5/data/js/6Rx3sDhoEMp.js" />
+      <file href="html5/data/js/6TGRZhZcklp.js" />
+      <file href="html5/data/js/6UFl9Z3JczW.js" />
+      <file href="html5/data/js/6VdrBxtydNa.js" />
+      <file href="html5/data/js/6WUnMrIDRSD.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/ds-bootstrap.min.js" />
+      <file href="html5/lib/scripts/ds-frame.desktop.min.js" />
+      <file href="html5/lib/scripts/ds-frame.mobile.min.js" />
+      <file href="html5/lib/scripts/ds-slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
