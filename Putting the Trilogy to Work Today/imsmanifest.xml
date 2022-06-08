@@ -1,0 +1,149 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_6OpRWfkVXnC_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Putting the Trilogy to Work Today</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Putting_the_Trilogy_to_Work_Today_ORG">
+    <organization identifier="Putting_the_Trilogy_to_Work_Today_ORG">
+      <title>Putting the Trilogy to Work Today</title>
+      <item identifier="Putting_the_Trilogy_to_Work_Today_SCO" isvisible="true" identifierref="__6OpRWfkVXnC_course_id_RES">
+        <title>Putting the Trilogy to Work Today</title>
+        <adlcp:masteryscore>0</adlcp:masteryscore>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__6OpRWfkVXnC_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/6SFdg3L9rNe_80_DX1440_DY1440_CX1080_CY721.jpg" />
+      <file href="story_content/67YxfTJuBtS_22050_64_1.mp3" />
+      <file href="story_content/6qyQ3DRdbHt_22050_64_1.mp3" />
+      <file href="mobile/5lK5YBKFBxY_80_P_9_6_304_442_DX914_DY914_CX304_CY442.png" />
+      <file href="story_content/67jCqaRQozt_22050_64_1.mp3" />
+      <file href="mobile/67H5EXAW3bg_80_P_570_0_906_1362_DX1624_DY1624_CX539_CY810.png" />
+      <file href="mobile/63BzG0C7Ptc_80_DX608_DY608_CX448_CY455.png" />
+      <file href="story_content/6Dg23HzYxgh_22050_64_1.mp3" />
+      <file href="story_content/68lLPC99ZGw_22050_64_1.mp3" />
+      <file href="story_content/6Tumx5uEQHj_22050_64_1.mp3" />
+      <file href="story_content/5rWDQ6FDLrc_22050_64_1.mp3" />
+      <file href="story_content/6QYp5Vesfd8_22050_64_1.mp3" />
+      <file href="story_content/6mUM242feZk_22050_64_1.mp3" />
+      <file href="story_content/6q4SDMagkXk_22050_64_1.mp3" />
+      <file href="story_content/5dqBHaFtHb7_22050_64_1.mp3" />
+      <file href="story_content/5xtyoG3awxZ_22050_64_1.mp3" />
+      <file href="mobile/6RUJlD3HX9W_80_P_0_447_1536_1152_DX1920_DY1920_CX1080_CY810.png" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="mobile/txt__default_5bM8i0h32c6.png" />
+      <file href="mobile/txt__default_6kKifnrXBJh.png" />
+      <file href="mobile/txt__default_5sAAEmI4Ngd.png" />
+      <file href="mobile/txt__default_6MHlhlpGgCo.png" />
+      <file href="mobile/txt__default_6lcb2JTMENV.png" />
+      <file href="mobile/txt__default_6Tsxl6OkgbX.png" />
+      <file href="mobile/txt__default_5qn4sUl7NMY.png" />
+      <file href="mobile/txt__default_5xc7qp70QvF.png" />
+      <file href="mobile/txt__default_5m9B9m7szw9.png" />
+      <file href="mobile/txt__default_6OQ9PeWqDZn.png" />
+      <file href="mobile/txt__default_6CGWCr1UuH3.png" />
+      <file href="mobile/txt__default_6jfOn7rN2xJ.png" />
+      <file href="mobile/txt__default_5Uvk65I71a0.png" />
+      <file href="mobile/txt__default_5wcKXUTGfcA.png" />
+      <file href="mobile/txt__default_5l6UIuiUirL.png" />
+      <file href="mobile/txt__default_5aJkI5cVYZh.png" />
+      <file href="mobile/txt__default_5eTRZaA0ET0.png" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5bIrAmS0WJZ.js" />
+      <file href="html5/data/js/5hm5gPl8vcZ.js" />
+      <file href="html5/data/js/5kAg5DoBK31.js" />
+      <file href="html5/data/js/5kmX3zmejNZ.js" />
+      <file href="html5/data/js/5X380dT7Cz2.js" />
+      <file href="html5/data/js/5x8thqjBaGG.js" />
+      <file href="html5/data/js/61gBxDfL3gc.js" />
+      <file href="html5/data/js/65h6ePsCuvb.js" />
+      <file href="html5/data/js/69IrzvLZxaU.js" />
+      <file href="html5/data/js/6CbgBdOY2Bn.js" />
+      <file href="html5/data/js/6CXXRUsz684.js" />
+      <file href="html5/data/js/6d0SwMmod3T.js" />
+      <file href="html5/data/js/6I3EAeelbj4.js" />
+      <file href="html5/data/js/6jrWYtnAq2v.js" />
+      <file href="html5/data/js/6QIAhVe8roZ.js" />
+      <file href="html5/data/js/6UFl9Z3JczW.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/app.min.js" />
+      <file href="html5/lib/stylesheets/main.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="story.html" />
+      <file href="story_html5.html" />
+      <file href="analytics-frame.html" />
+      <file href="story_content/blank.html" />
+      <file href="story_content/story.js" />
+      <file href="index_lms.html" />
+      <file href="index_lms_html5.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/AICCFunctions.js" />
+      <file href="lms/API.js" />
+      <file href="lms/APIConstants.js" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/Configuration.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/lms.js" />
+      <file href="lms/LMSAPI.js" />
+      <file href="lms/NONEFunctions.js" />
+      <file href="lms/SCORM2004Functions.js" />
+      <file href="lms/SCORMFunctions.js" />
+      <file href="lms/UtilityFunctions.js" />
+    </resource>
+  </resources>
+</manifest>
