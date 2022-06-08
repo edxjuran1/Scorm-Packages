@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_6UylkbCCf6D_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Improvement Tool: Juran's Pareto Analysis</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Improvement_Tool:_Juran's_Pareto_Analysis_ORG">
+    <organization identifier="Improvement_Tool:_Juran's_Pareto_Analysis_ORG">
+      <title>Improvement Tool: Juran's Pareto Analysis</title>
+      <item identifier="Improvement_Tool:_Juran's_Pareto_Analysis_SCO" isvisible="true" identifierref="__6UylkbCCf6D_course_id_RES">
+        <title>Improvement Tool: Juran's Pareto Analysis</title>
+        <adlcp:masteryscore>0</adlcp:masteryscore>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__6UylkbCCf6D_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/6lgiRwmGwp2_80_P_0_0_1815_1365_DX1620_DY1620_CX1077_CY810.png" />
+      <file href="story_content/6HAOpycaRS3_22050_64_1.mp3" />
+      <file href="story_content/6Zm4FptqySo_22050_64_1.mp3" />
+      <file href="mobile/6WlAFTBA8y2_80_P_0_500_2048_535_DX1440_DY1440_CX768_CY201.png" />
+      <file href="story_content/5WqNdOhOZzz_22050_64_1.mp3" />
+      <file href="mobile/6eHsHq43pdn_80_DX1140_DY1140_CX670_CY426.png" />
+      <file href="story_content/6q3JoURARbg_22050_64_1.mp3" />
+      <file href="story_content/6V3M932cCle_22050_64_1.mp3" />
+      <file href="mobile/6NxeX2xjE07_80_P_512_0_1022_1536_DX1440_DY1440_CX539_CY810.png" />
+      <file href="story_content/60PvSaO43gw_22050_64_1.mp3" />
+      <file href="story_content/video_5mHK7q3nO2t_22_64_576x432.mp4" />
+      <file href="mobile/video_5mHK7q3nO2t_22_64_576x432.jpg" />
+      <file href="mobile/6FXblnxYqaz_80_DX480_DY480_CX360_CY240.jpg" />
+      <file href="mobile/5d4ZYSlXJCZ_80_DX480_DY480_CX360_CY240.jpg" />
+      <file href="mobile/5y2pwy6gI4I_80_DX480_DY480_CX325_CY240.jpg" />
+      <file href="story_content/5pXQPes5DdN_22050_64_1.mp3" />
+      <file href="story_content/6axSbTTdbRQ_22050_64_1.mp3" />
+      <file href="mobile/5sqkrNjn82B_80_DX1244_DY1244_CX933_CY636.jpg" />
+      <file href="story_content/6NvsZnPkEVF_22050_64_1.mp3" />
+      <file href="mobile/60gpXqGvHPm_80_P_516_0_1014_1524_DX1452_DY1452_CX539_CY810.png" />
+      <file href="story_content/69F2ryFbxpZ_22050_64_1.mp3" />
+      <file href="mobile/5hoHWK0xvQx_80_P_569_0_908_1365_DX1620_DY1620_CX539_CY810.png" />
+      <file href="story_content/5cD4c6yAImV_22050_64_1.mp3" />
+      <file href="story_content/zoomIcon.png" />
+      <file href="mobile/6k9tRrviEmb_80_DX732_DY336_CX732_CY336.png" />
+      <file href="mobile/5bkgGzLAsz2_80_DX732_DY517_CX732_CY517.png" />
+      <file href="mobile/6OxHU1cMyVA_80_DX732_DY366_CX732_CY366.png" />
+      <file href="mobile/5Yz4O140NH1_80_DX832_DY832_CX505_CY623.jpg" />
+      <file href="mobile/5sqkrNjn82B_80_DX1242_DY1242_CX774_CY528.jpg" />
+      <file href="story_content/64L6Dj0z7mC_22050_64_1.mp3" />
+      <file href="mobile/6RUJlD3HX9W_80_P_0_447_1536_1152_DX1920_DY1920_CX1080_CY810.png" />
+      <file href="story_content/video_5dQoixFkhm7_22_64_524x394.mp4" />
+      <file href="mobile/video_5dQoixFkhm7_22_64_524x394.jpg" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="mobile/txt__default_6TTUWcFUcCd.png" />
+      <file href="mobile/txt__default_5bthsFUsaqj.png" />
+      <file href="mobile/Shape5wdpimmJ69B.jpg" />
+      <file href="mobile/Shape5W8ScpMpU0n.jpg" />
+      <file href="mobile/Shape66a2yJvyCuA.jpg" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5gAAWb10z7R.js" />
+      <file href="html5/data/js/5hm5gPl8vcZ.js" />
+      <file href="html5/data/js/5jkqfV8PuQc.js" />
+      <file href="html5/data/js/5kAg5DoBK31.js" />
+      <file href="html5/data/js/5mxJzfEEQsu.js" />
+      <file href="html5/data/js/5p0bqb0RFHj.js" />
+      <file href="html5/data/js/5wOxDa8GU0t.js" />
+      <file href="html5/data/js/5wyfFE7UsOv.js" />
+      <file href="html5/data/js/5X380dT7Cz2.js" />
+      <file href="html5/data/js/61gBxDfL3gc.js" />
+      <file href="html5/data/js/6aWkqPY1mAa.js" />
+      <file href="html5/data/js/6BrF9Dx6J3k.js" />
+      <file href="html5/data/js/6CbgBdOY2Bn.js" />
+      <file href="html5/data/js/6ClZfhF4ymf.js" />
+      <file href="html5/data/js/6KG8CbLncbC.js" />
+      <file href="html5/data/js/6MdQcKFCMng.js" />
+      <file href="html5/data/js/6TBwPZBwhu0.js" />
+      <file href="html5/data/js/6UFl9Z3JczW.js" />
+      <file href="html5/data/js/6VTu2otG8Fw.js" />
+      <file href="html5/data/js/6XUJXPPnanq.js" />
+      <file href="html5/data/js/6YWAdKyrKYx.js" />
+      <file href="html5/data/js/6ZYafORUVnx.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/app.min.js" />
+      <file href="html5/lib/stylesheets/main.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="story.html" />
+      <file href="story_html5.html" />
+      <file href="analytics-frame.html" />
+      <file href="story_content/blank.html" />
+      <file href="story_content/story.js" />
+      <file href="index_lms.html" />
+      <file href="index_lms_html5.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/AICCFunctions.js" />
+      <file href="lms/API.js" />
+      <file href="lms/APIConstants.js" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/Configuration.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/lms.js" />
+      <file href="lms/LMSAPI.js" />
+      <file href="lms/NONEFunctions.js" />
+      <file href="lms/SCORM2004Functions.js" />
+      <file href="lms/SCORMFunctions.js" />
+      <file href="lms/UtilityFunctions.js" />
+    </resource>
+  </resources>
+</manifest>

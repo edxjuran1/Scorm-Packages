@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_5jzi1ngeNUt_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Application: Determining the "Vital Few" Through Pareto Analysis</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Application:_Determining_the_&quot;Vital_Few&quot;_Through_Pareto_Analysis_ORG">
+    <organization identifier="Application:_Determining_the_&quot;Vital_Few&quot;_Through_Pareto_Analysis_ORG">
+      <title>Application: Determining the "Vital Few" Through Pareto Analysis</title>
+      <item identifier="Application:_Determining_the_&quot;Vital_Few&quot;_Through_Pareto_Analysis_SCO" isvisible="true" identifierref="__5jzi1ngeNUt_course_id_RES">
+        <title>Application: Determining the "Vital Few" Through Pareto Analysis</title>
+        <adlcp:masteryscore>0</adlcp:masteryscore>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__5jzi1ngeNUt_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/5gO8SAubU0A_80_P_0_0_1817_1365_DX1620_DY1620_CX1078_CY809.png" />
+      <file href="mobile/6RPDiGld1iA_80_P_568_0_910_1367_DX1618_DY1618_CX539_CY810.png" />
+      <file href="mobile/6UfNYRaMEXt_80_P_569_0_908_1365_DX1620_DY1620_CX539_CY810.png" />
+      <file href="mobile/61IQeSzjDwT_80_P_569_0_908_1365_DX1620_DY1620_CX539_CY810.png" />
+      <file href="mobile/5fX3HX9Y4ux_80_P_571_0_905_1360_DX1626_DY1626_CX539_CY810.png" />
+      <file href="mobile/6Kl3sI5lyJh_80_P_0_428_1587_1190_DX1858_DY1858_CX1080_CY810.png" />
+      <file href="mobile/5Yrtrd45KSH_80_P_0_0_576_326_DX1154_DY1154_CX508_CY288.png" />
+      <file href="mobile/6RUJlD3HX9W_80_P_0_447_1536_1152_DX1920_DY1920_CX1080_CY810.png" />
+      <file href="mobile/5Yrtrd45KSH_80_P_0_0_576_326_DX1154_DY1154_CX577_CY327.png" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="mobile/txt__default_5zPaTegr4cm.png" />
+      <file href="mobile/txt__default_5WkQTNhmhLh.png" />
+      <file href="mobile/txt__default_6erFPsxiIr9.png" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5fnhmxrvTjY.js" />
+      <file href="html5/data/js/5lJoT6EvJMH.js" />
+      <file href="html5/data/js/5XgsvHOgKv4.js" />
+      <file href="html5/data/js/61gBxDfL3gc.js" />
+      <file href="html5/data/js/61JRFaIWRJG.js" />
+      <file href="html5/data/js/63rtLOxZESx.js" />
+      <file href="html5/data/js/6dK3dz8wYwP.js" />
+      <file href="html5/data/js/6e85vmc7zXj.js" />
+      <file href="html5/data/js/6EERbgYQTxW.js" />
+      <file href="html5/data/js/6eRnOZUEWiY.js" />
+      <file href="html5/data/js/6gaHDcvYDWy.js" />
+      <file href="html5/data/js/6MXjsRnZvMN.js" />
+      <file href="html5/data/js/6nrElkdpCSD.js" />
+      <file href="html5/data/js/6pYFyxMUQQS.js" />
+      <file href="html5/data/js/6qpuRFnf1N8.js" />
+      <file href="html5/data/js/6VyhtgKnQ6G.js" />
+      <file href="html5/data/js/6YQ1jphxT6I.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/app.min.js" />
+      <file href="html5/lib/stylesheets/main.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="story.html" />
+      <file href="story_html5.html" />
+      <file href="analytics-frame.html" />
+      <file href="story_content/blank.html" />
+      <file href="story_content/story.js" />
+      <file href="index_lms.html" />
+      <file href="index_lms_html5.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/AICCFunctions.js" />
+      <file href="lms/API.js" />
+      <file href="lms/APIConstants.js" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/Configuration.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/lms.js" />
+      <file href="lms/LMSAPI.js" />
+      <file href="lms/NONEFunctions.js" />
+      <file href="lms/SCORM2004Functions.js" />
+      <file href="lms/SCORMFunctions.js" />
+      <file href="lms/UtilityFunctions.js" />
+    </resource>
+  </resources>
+</manifest>
